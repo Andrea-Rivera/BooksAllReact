@@ -22,7 +22,7 @@ function Main() {
             <div className="row2">
                 <h2>Find your book</h2>
                 <div className="search">
-                    <input type="text" placeholder='Enter your book name' 
+                    <input type="text" placeholder='Type your book's name then Enter' 
                     value={search} onChange={e=>{setSearch(e.target.value)}}
                     onKeyPress={searchBook}
                     />
