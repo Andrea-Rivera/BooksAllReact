@@ -16,9 +16,9 @@ The main features of this project are:
 
 ### Screenshots
 >Banner Page
-![Banner Page](./public/images/books_python1.png)
+![Banner Page](./public/images/book_banner.png)
 >List of Books
-![List of books](./public/images/python2.png)
+![List of books](./public/images/book_list.png)
 >Books Modal view.
 ![Book's Modal](./public/images/python_modal.png)
 >Books Summary
