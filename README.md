@@ -16,6 +16,9 @@ The main features of this project are:
 
 ### Screenshots
 >The App screenshots are the following:
-![Banner Page](./public/images/Narnia.jpg)
+![Banner Page](./public/images/books_python1.png)
+![List of books](./public/images/python2.png)
+![Book's Modal](./public/images/python_modal.png)
+![Book's Summary](./public/images/python3.png)
 
 
