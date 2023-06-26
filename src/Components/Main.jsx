@@ -17,7 +17,7 @@ function Main() {
     <>
         <div className="header">
             <div className="row1">
-                <h1>“Outside of a dog, a book is man's best friend.”</h1>
+            
             </div>
             <div className="row2">
                 <h2>Find your book</h2>
