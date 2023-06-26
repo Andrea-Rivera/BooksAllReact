@@ -15,10 +15,13 @@ The main features of this project are:
 - [x] Implements responsive design principles.
 
 ### Screenshots
->The App screenshots are the following:
+>Banner Page
 ![Banner Page](./public/images/books_python1.png)
+>List of Books
 ![List of books](./public/images/python2.png)
+>Books Modal view.
 ![Book's Modal](./public/images/python_modal.png)
+>Books Summary
 ![Book's Summary](./public/images/python3.png)
 
 
