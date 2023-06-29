@@ -39,32 +39,26 @@ html{
     z-index: -1;
 
 }
-.row2{
-    position:absolute;
+.row1{
+   position: absolute;
     top:10px;
     right: 150px;
     text-align: center;
 }
 
-.row2 h2{
+.row1 h2{
     font-size: 3rem;
     margin-top: 20px;
     margin-bottom: 15px;
     
 }
 
-.row2 img{
+.row1 img{
     margin-top: 30px;
     width: 400px;
     border-radius: 50px;
 }
-.row1 h1{
-    font-size: 3rem;
-    text-align: center;
-    margin-left: 35px;
-    font-family: 'Playfair Display', serif;
 
-}
 .search{
     display:flex;
     align-items: center;
@@ -74,20 +68,37 @@ html{
 .search input{
 outline: 0;
 border-radius: 10px;
-width: 350px;
+width: 300px;
 height: 35px;
 padding: 0 0.5rem;
 font-size: 15px;
 font-weight:bold;
-
+margin:0 2px;
 }
 
-.search button{
-    outline:none;
-    border:none;
-    height: 35px;
-    padding: 0 0.5rem;
-}
+.search button {
+    background-color: #f6ef90;;
+    color:  rgb(122, 70, 29);
+    font-weight: bolder;
+    font-size: larger;
+    border: 1px solid  #203e41;;
+    outline: none;
+    width: auto;
+    padding: 8px 15px;
+    border-radius: 5px;
+    margin: 0 10px;
+  }
+  
+  .search button:hover,
+  .search button:active {
+    background-color: white;
+    color: brown;
+    border: 1px solid  #764153;;
+    width: auto;
+    padding: 10px 20px;
+    border-radius: 5px;
+    outline: none;
+  }
 
 .container{
     
